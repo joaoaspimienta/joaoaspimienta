@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaoaspimienta
 - 👀 I’m interested in Html, CSS, Javascript and React!
 - 🌱 I’m currently learning Javascript and React
-- 💞️ I’m looking to improve a lot and then get a job, lol
+- 💞️ I’m looking to improve a lot and then get a job, lmao
 - 📫 How to reach me: joaoalejandro32@gmail.com!
 
 <!---
